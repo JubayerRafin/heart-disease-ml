@@ -80,7 +80,7 @@ Python, pandas, NumPy, scikit-learn, matplotlib, seaborn
 ## How to run
 
 ```bash
-git clone https://github.com/<your-username>/heart-disease-ml.git
+git clone https://github.com/<JubayerRafin>/heart-disease-ml.git
 cd heart-disease-ml
 pip install pandas numpy scikit-learn matplotlib seaborn
 jupyter notebook heart_disease.ipynb
